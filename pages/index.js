@@ -16,8 +16,8 @@ export default function Home() {
 				<TawkMessengerReact propertyId={process.env.NEXT_PUBLIC_TAWKTO_PROPERTY_ID} widgetId={process.env.NEXT_PUBLIC_TAWKTO_WIDGET_ID} />
 			</div>
 			<Head>
-				<title>Munchyroll</title>
-				<meta name="title" content="Munchyroll" />
+				<title>AnimeZia</title>
+				<meta name="title" content="AnimeZia" />
 				<meta
 					name="description"
 					content="An ad-free anime streaming website aimed at minimality and responsive design. Share this with friends!"
