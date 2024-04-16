@@ -35,7 +35,7 @@ function MainLayout({ children, useHead = true }) {
       {useHead && (
         <Head>
           <title>Munchyroll</title>
-          <meta name="title" content="Munchyroll" />
+          <meta name="title" content="AnimeZia" />
           <meta
             name="description"
             content="An ad-free anime streaming website aimed at minimality and responsive design. Share this with friends!"
